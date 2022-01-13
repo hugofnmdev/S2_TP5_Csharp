@@ -1,0 +1,11 @@
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp5-hugo.meleiro/Interrogation_Room/Basics/bin/Debug/net5.0/Basics
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp5-hugo.meleiro/Interrogation_Room/Basics/bin/Debug/net5.0/Basics.dll
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp5-hugo.meleiro/Interrogation_Room/Basics/bin/Debug/net5.0/Basics.pdb
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp5-hugo.meleiro/Interrogation_Room/Basics/obj/Debug/net5.0/Basics.csproj.AssemblyReference.cache
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp5-hugo.meleiro/Interrogation_Room/Basics/obj/Debug/net5.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp5-hugo.meleiro/Interrogation_Room/Basics/obj/Debug/net5.0/Basics.AssemblyInfoInputs.cache
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp5-hugo.meleiro/Interrogation_Room/Basics/obj/Debug/net5.0/Basics.AssemblyInfo.cs
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp5-hugo.meleiro/Interrogation_Room/Basics/obj/Debug/net5.0/Basics.csproj.CoreCompileInputs.cache
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp5-hugo.meleiro/Interrogation_Room/Basics/obj/Debug/net5.0/Basics.dll
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp5-hugo.meleiro/Interrogation_Room/Basics/obj/Debug/net5.0/ref/Basics.dll
+/afs/cri.epita.fr/user/h/hu/hugo.meleiro/u/EPITA/TPs/C#/tp5-hugo.meleiro/Interrogation_Room/Basics/obj/Debug/net5.0/Basics.pdb
